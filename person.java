@@ -29,5 +29,10 @@ public class person{
 		String surname = this.surname;
 		
 		System.out.println(first, other, surname);
+		
+	}
+	public void ageToString(){
+		int age = this.age
+		System.out.print(age.toString())
 	}
 }
