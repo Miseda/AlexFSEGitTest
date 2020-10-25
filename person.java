@@ -2,6 +2,7 @@ public class person{
 	Private String first;
 	Private String other;
 	Private String surname;
+	Private int age;
 	
 	public person (){
 		
@@ -18,5 +19,8 @@ public class person{
 	
 	public void String setother (String other){
 	    this.other = " ";
+	}
+	public int age(int age) {
+		this.age = age;
 	}
 }
